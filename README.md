@@ -1,5 +1,5 @@
 # About Academic and Education WordPress theme
-I integrated HTML template into WordPress to achieve dynamic functionality. This Education WordPress theme allows users to add information about courses, upcoming events, achievements, student reviews and it is integrated with a contact form. You can find the theme itself in wp-content/themes/academy. 
+I integrated HTML template into WordPress to achieve dynamic functionality. This Education WordPress theme allows users to add information about courses, upcoming events, achievements, student reviews and it is integrated with a contact form. You can find the theme itself in img-it-academy/wp-content/themes/academy. 
 All WordPress installation files and database (img-it-academy.sql) are available to show the results that can be achieved using this custom theme.
 
 # Screenshots
